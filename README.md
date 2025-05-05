@@ -23,7 +23,7 @@ I'm a CS-student with interest in:
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
 
 ## 📈 GitHub Stats
-[![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tim&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Tim)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TimUrbanczyk&theme=radical)](https://git.io/streak-stats)
 
 <!---
 TimUrbanczyk/TimUrbanczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
