@@ -15,6 +15,7 @@ I'm a CS-student with interest in:
 - ☕ Java
 - 📜 LaTeX
 
+
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -26,9 +27,9 @@ I'm a CS-student with interest in:
 
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimUrbanczyk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 
 ## 📈 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=TimUrbanczyk&theme=radical)](https://git.io/streak-stats)
