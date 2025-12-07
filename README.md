@@ -1,10 +1,5 @@
 # Hi there, I'm Tim 👋
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-
-
-
 
 ## 🚀 About Me
 I'm a CS-student with interest in:
