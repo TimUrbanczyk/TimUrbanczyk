@@ -2,10 +2,7 @@
 
 
 ## About Me
-I'm a CS-student with interest in:
--  Python 
--  Java
--  LaTeX
+I'm a CS-student
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimUrbanczyk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
